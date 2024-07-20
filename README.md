@@ -27,6 +27,6 @@ I love frontend development for the instant visual results and the opportunity t
 - Telegram: [@margo_frontdev](https://t.me/margo_frontdev)
 
 
-## 📈 GitHub Stats
+## 📊 Language Proportions
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Margo-Bond&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Margo-Bond&layout=compact&theme=radical)
