@@ -24,7 +24,7 @@ I love frontend development for the instant visual results and the opportunity t
 
 - LinkedIn: [linkedin.com/in/rita-bondarenko](https://www.linkedin.com/in/rita-bondarenko/)
 - Email: [ritabond1991@gmail.com](mailto:ritabond1991@gmail.com)
-- Telegram: [@margo_frontdev](https://t.me/margo_frontender)
+- Telegram: [@margo_frontender](https://t.me/margo_frontender)
 
 
 ## 📊 Language Proportions
