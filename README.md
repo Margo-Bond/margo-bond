@@ -1,4 +1,4 @@
-# Hi there, I'm Rita 👋
+# Hi there, I'm Margo 👋
 
 Frontend Developer focused on building clear, reliable, and scalable web interfaces with React, Next.js, and TypeScript.
 
